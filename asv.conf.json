@@ -16,13 +16,9 @@
   ],
   "matrix": {
     "req": {
-      "numpy": [
-        "1.8"
-      ],
+      "numpy": [],
       "Cython": [],
-      "astropy": [
-        "0.4.1"
-      ]
+      "astropy": []
     }
   },
   "environment_type": "conda",
