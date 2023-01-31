@@ -3,6 +3,9 @@
   "project": "photutils",
   "project_url": "http://photutils.readthedocs.org",
   "repo": "https://github.com/astropy/photutils.git",
+  "build_command": [
+    "pip install ."
+  ],
   "branches": [
     "main"
   ],
